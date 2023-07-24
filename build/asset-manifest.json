@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PAF-GRUPO03/build/static/css/main.2cf12c48.css",
+    "main.js": "/PAF-GRUPO03/build/static/js/main.707ef600.js",
+    "index.html": "/PAF-GRUPO03/build/index.html",
+    "main.2cf12c48.css.map": "/PAF-GRUPO03/build/static/css/main.2cf12c48.css.map",
+    "main.707ef600.js.map": "/PAF-GRUPO03/build/static/js/main.707ef600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf12c48.css",
+    "static/js/main.707ef600.js"
+  ]
+}
